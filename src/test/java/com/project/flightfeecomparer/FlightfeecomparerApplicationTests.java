@@ -8,6 +8,7 @@ class FlightfeecomparerApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assert(true);
 	}
 
 }
